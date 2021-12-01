@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["small_bytecode_interpreter"];
